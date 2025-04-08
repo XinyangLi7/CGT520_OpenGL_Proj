@@ -1,5 +1,5 @@
 # CGT520_OpenGL_Proj
-A part of assignments using OpenGL in graphics programming course.
+OpenGL assignments of graphics programming intro course in 2024 fall.
 
 ## Phong Lighting
 
