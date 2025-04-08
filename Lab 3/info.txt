@@ -1,0 +1,4 @@
+Vendor: NVIDIA Corporation
+Renderer: NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2
+Version: 4.6.0 NVIDIA 546.30
+GLSL Version: 4.60 NVIDIA
